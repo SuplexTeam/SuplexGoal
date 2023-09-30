@@ -1,7 +1,7 @@
 package 프로그래머스;
 
 import java.util.*;
-class Solution {
+class 폰켓몬 {
     public int solution(int[] nums) {
         Set<Integer> numsHashSet = new HashSet<>();
         for(int num : nums) {
